@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.pistolandcheckpoint.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Janne\\Documents\\MegaPilvi\\amk\\adv game tech\\PistolAndCheckpoint\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "PistolAndCheckpoint [Testing]"
+        }
+      }
+    }
+  ]
+}
